@@ -1,4 +1,4 @@
 = Todo App
 I built a Todo application (Pretty much the 'Hello World' of Development Tutorials). We have the ability to create multiple Todo lists and multiple Todo items for each list, and also the ability to mark an item as complete.
 
-{View the demo application here}[http://to-do-lists.herokuapp.com/]
+{View the demo application here}[https://wiiki.herokuapp.com/]
